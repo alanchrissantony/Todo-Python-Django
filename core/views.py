@@ -3,6 +3,10 @@
 # Create your views here.
 from django.shortcuts import render
 
+from core.forms import TodoForm
+
+
 
 def home(request):
-    return render(request,'home.html')
+    form = TodoForm
+    return render(request,'home.html', { 'forms': form })
