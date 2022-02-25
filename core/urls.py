@@ -1,7 +1,7 @@
 
 from django.urls import path
 
-from core.views import home
+from core.views import delete, home, update
 
 
 
@@ -11,5 +11,7 @@ from core.views import home
 
 
 urlpatterns = [
-    path('', home),
+    path('', home, name='home'),
+    path('update/<int:todo_id>/', update, name='update'),
+    path('delete/<int:todo_id>/', delete, name='delete')
 ]
