@@ -19,8 +19,8 @@ NOTE: Please read the RUN section before opening an issue.
   
   
 <p align="center">
-<img src="https://imgur.com/7jgJYl6.jpg"/>
-<img src="https://imgur.com/YubA4a1.jpg"/>
+<img src="https://imgur.com/7jgJYl6.png"/>
+<img src="https://imgur.com/YubA4a1.png"/>
 </p>
 
 ## Run
