@@ -1,4 +1,4 @@
-<h1 align="center">Todo<h1/>
+<h1 align="center">ToDo<h1/>
 
 
 ## Table of contents
